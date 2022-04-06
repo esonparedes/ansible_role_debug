@@ -1,0 +1,6 @@
+---
+# tasks file for .
+
+- name: test debug
+  debug:
+    msg: "Hello from Ansible Galaxy"
